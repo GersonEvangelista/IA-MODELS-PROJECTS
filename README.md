@@ -29,6 +29,9 @@
 - 🔗 **Demo Interactivo y Código:**  
   [Modelo de préstamo personal bancario](https://gersonevangelista.github.io/Bank_Personal_Loan_Modelling_GCE/Bank_Personal_Loan_Modelling.html)
 
+- 🖼️ **Preview:**  
+  ![Captura del proyecto](IMG/resultModelsR.png)
+
 ---
 
 
@@ -53,4 +56,4 @@
 
 ## 📝 Licencia
 
-Este repositorio está bajo la Licencia [BACHI](LICENSE).
+Este repositorio está bajo la Licencia [BACHI](gce_chaev).
