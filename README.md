@@ -54,7 +54,7 @@
   *[ComputerVisionBombomPulpo](https://github.com/GersonEvangelista/ComputerVision_Bombom_Pulpo.git)
 
 - 🖼️ **Preview:**  
-  <video src="video.mp4" controls width="600">
+  <video src="https://raw.githubusercontent.com/GersonEvangelista/ComputerVision_Bombom_Pulpo/main/video.mp4" controls width="600">
   </video>
 
 
