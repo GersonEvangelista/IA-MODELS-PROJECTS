@@ -38,7 +38,7 @@
   - Dataset personal construido con **51 imágenes**:
     - 17 de Bombom  
     - 17 de Pulpo  
-    - 17 de otros perros  
+    - 17 de otros (Fondo negro)  
   - Extracción de vectores de características mediante SIFT para cada imagen
   - Entrenamiento de cuatro modelos: **KNN, SVM, Decision Tree y Random Forest**
   - **Random Forest** logró el mejor desempeño:
