@@ -50,12 +50,13 @@
     - Extrae características SIFT  
     - Predice la clase del perro al instante
 
-- 🔗 **Demo Interactivo y Código:**  
-  *[ComputerVisionBombomPulpo](https://github.com/GersonEvangelista/ComputerVision_Bombom_Pulpo.git)
+- 🔗 **Código:**  
+  [ComputerVisionBombomPulpo](https://github.com/GersonEvangelista/ComputerVision_Bombom_Pulpo.git)
 
-- 🖼️ **Preview:**  
-  <video src="https://raw.githubusercontent.com/GersonEvangelista/ComputerVision_Bombom_Pulpo/main/video.mp4" controls width="600">
-  </video>
+- 🖼️ **Preview:**
+  [videoDemo](https://www.linkedin.com/posts/gersonchaev_computervision-machinelearning-sift-activity-7356158652677857281-g0oJ?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEF4LxoBl7uEUeQnVZ7eWyM--kMamk_4raw)
+  
+  ![Captura del proyecto](https://github.com/GersonEvangelista/ComputerVision_Bombom_Pulpo/blob/93e40a35f44a7b0067ebc3f6138fb319bff60096/demo.png)
 
 
 ### 📌 **1. BANK PERSONAL LOAN MODELLING**
