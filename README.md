@@ -15,6 +15,49 @@
 
 > 🚀 Cada proyecto representa el uso de datos para transformar decisiones en oportunidades.
 
+### 📌 **2. DOG RECOGNITION – COMPUTER VISION (Bombom & Pulpo)**
+
+- 🧾 **Descripción:**  
+  Proyecto de visión por computadora desarrollado para identificar a mis perritos **Bombom** y **Pulpo** a partir de imágenes en tiempo real. Este proyecto tiene un profundo valor personal, nació como un pequeño proyecto para aplicar lo aprendido y que ahora lo tengo como **homenaje a Bombom**, quien falleció el **16/11/2025** debido a ehrlichia.  
+  Más allá de lo emocional, el proyecto demuestra la aplicación práctica de técnicas de *Computer Vision* para diferenciar individuos mediante el uso de **SIFT** como extractor de características y modelos clásicos de *Machine Learning*.
+
+- 🔧 **Tecnologías y herramientas:**
+  - **Python**
+  - **OpenCV** (procesamiento de imágenes, SIFT, webcam)
+  - **Scikit-learn** (Random Forest, SVM, KNN, Decision Tree)
+  - **NumPy / Matplotlib**
+  - **Jupyter Notebook**
+
+- 🛠️ **Métodos utilizados:**
+  - **SIFT** como extractor de características
+  - Vectorización mediante promedios de descriptores
+  - Modelos supervisados (Random Forest, SVM, KNN, Decision Tree)
+  - Clasificación en tiempo real con webcam
+
+- 📊 **Resultados Clave:**
+  - Dataset personal construido con **51 imágenes**:
+    - 17 de Bombom  
+    - 17 de Pulpo  
+    - 17 de otros perros  
+  - Extracción de vectores de características mediante SIFT para cada imagen
+  - Entrenamiento de cuatro modelos: **KNN, SVM, Decision Tree y Random Forest**
+  - **Random Forest** logró el mejor desempeño:
+    - *Accuracy:* **100%** en el conjunto de evaluación  
+    - *Precisión, Recall y F1-score:* perfectos por clase  
+  *Nota:* Dado que se trata de un proyecto introductorio con un dataset pequeño, es esperable obtener métricas muy altas. Estas sirven únicamente con fines demostrativos y no representan un modelo listo para producción.
+  - Implementación de un sistema en tiempo real que:
+    - Detecta una región central en la webcam  
+    - Extrae características SIFT  
+    - Predice la clase del perro al instante
+
+- 🔗 **Demo Interactivo y Código:**  
+  *[ComputerVisionBombomPulpo](https://github.com/GersonEvangelista/ComputerVision_Bombom_Pulpo.git)
+
+- 🖼️ **Preview:**  
+  <video src="videos/preview.mp4" controls width="600">
+  </video>
+
+
 ### 📌 **1. BANK PERSONAL LOAN MODELLING**
 
 - 🧾 **Descripción:** Proyecto centrado en un banco que busca identificar clientes con alta probabilidad de contratar préstamos personales. El objetivo es transformar clientes pasivos en activos mediante estrategias basadas en modelos predictivos.
@@ -31,6 +74,8 @@
 
 - 🖼️ **Preview:**  
   ![Captura del proyecto](IMG/resultModelsR.png)
+
+
 
 ---
 
