@@ -23,15 +23,15 @@ El objetivo final es establecer las bases de una herramienta que se integre en l
 
 - 👑 **Liderazgo y Gestión del Proyecto**
 
-**Mi Rol: Líder del Proyecto (Project Leader)**
+Mi Rol: Líder del Proyecto (Project Leader)**
 
-Como líder del proyecto, mi responsabilidad principal fue la **dirección integral** de la iniciativa. Me encargué de asegurar la alineación entre los objetivos clínicos del INEN y la estrategia técnica del equipo.
-
-Mis funciones clave incluyeron:
-* **Guía y Coordinación del Equipo:** Definir la hoja de ruta técnica y metodológica, y orientar a los miembros del equipo en la implementación de algoritmos.
-* **Monitoreo Continuo:** Supervisar el progreso técnico y la calidad de los datos y modelos desarrollados.
-* **Gestión Documental:** Mantener **registros** detallados de las pruebas, los resultados experimentales y las configuraciones de los modelos.
-* **Reporte de Avances:** Elaborar y presentar **reportes e informes de avances** periódicos a los stakeholders.
+  Como líder del proyecto, mi responsabilidad principal fue la **dirección integral** de la iniciativa. Me encargué de asegurar la alineación entre los objetivos clínicos del INEN y la estrategia técnica del equipo.
+  
+  Mis funciones clave incluyeron:
+  * **Guía y Coordinación del Equipo:** Definir la hoja de ruta técnica y metodológica, y orientar a los miembros del equipo en la implementación de algoritmos.
+  * **Monitoreo Continuo:** Supervisar el progreso técnico y la calidad de los datos y modelos desarrollados.
+  * **Gestión Documental:** Mantener **registros** detallados de las pruebas, los resultados experimentales y las configuraciones de los modelos.
+  * **Reporte de Avances:** Elaborar y presentar **reportes e informes de avances** periódicos a los stakeholders.
 
 - 🔧 **Tecnologías y herramientas:**
   - **Python**
