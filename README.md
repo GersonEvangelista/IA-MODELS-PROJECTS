@@ -15,6 +15,52 @@
 
 > 🚀 Cada proyecto representa el uso de datos para transformar decisiones en oportunidades.
 
+### 📌 **3. NeuroSegment AI – COMPUTER VISION**
+
+- 🧾 **Descripción:**  
+  El proyecto desarrollado en colaboración con el INEN, busca crear un sistema de inteligencia artificial que asista en el diagnóstico de cáncer de endometrio mediante el análisis automatizado de imágenes histológicas en formato .vsi. Actualmente en fase de diseño, la iniciativa evalúa técnicas avanzadas de segmentación para identificar núcleos celulares y modelos de clasificación para diferenciar células normales de malignas, abordando además desafíos técnicos asociados al manejo y preprocesamiento de archivos de gran tamaño. 
+El objetivo final es establecer las bases de una herramienta que se integre en los flujos de trabajo clínicos del INEN, mejorando la precisión, consistencia y eficiencia del análisis histopatológico.
+
+- 👑 **Liderazgo y Gestión del Proyecto**
+
+**Mi Rol: Líder del Proyecto (Project Leader)**
+
+Como líder del proyecto, mi responsabilidad principal fue la **dirección integral** de la iniciativa. Me encargué de asegurar la alineación entre los objetivos clínicos del INEN y la estrategia técnica del equipo.
+
+Mis funciones clave incluyeron:
+* **Guía y Coordinación del Equipo:** Definir la hoja de ruta técnica y metodológica, y orientar a los miembros del equipo en la implementación de algoritmos.
+* **Monitoreo Continuo:** Supervisar el progreso técnico y la calidad de los datos y modelos desarrollados.
+* **Gestión Documental:** Mantener **registros** detallados de las pruebas, los resultados experimentales y las configuraciones de los modelos.
+* **Reporte de Avances:** Elaborar y presentar **reportes e informes de avances** periódicos a los stakeholders.
+
+- 🔧 **Tecnologías y herramientas:**
+  - **Python**
+  - **OpenCV** (procesamiento de imágenes)
+  - **Machine Learning** (Random Forest)
+  - **Deep Learning** (U-net)
+  - **NumPy**
+  - **Jupyter Notebook**
+
+- ✨ Características Clave y Logros
+
+* **Sistema de Segmentación y Clasificación Funcional:** Se logró la implementación exitosa de un sistema capaz de realizar la segmentación y posterior clasificación de células utilizando dos enfoques principales:
+    * **Algoritmos Tradicionales:** Se empleó **Random Forest** como modelo representativo de Machine Learning.
+    * **Modelos de Aprendizaje Profundo (Deep Learning):** Se exploraron arquitecturas basadas en Redes Neuronales Convolucionales (**CNN**).
+
+* **Manejo de Imágenes de Alto Rendimiento:** Se diseñó una arquitectura que permite el procesamiento eficiente de **imágenes histológicas de gran tamaño (formato .tiff)**, facilitando su manipulación dentro de la aplicación.
+    * **Funcionalidades de Navegación:** El sistema soporta **zoom** y navegación fluida a través de las imágenes.
+    * **Anotación de ROIs:** Capacidad para seleccionar **Regiones de Interés (ROIs)** y realizar **anotaciones manuales y automáticas**.
+
+* **Análisis Comparativo de Modelos:** El proyecto incluyó una evaluación rigurosa del rendimiento de los modelos:
+    * **Observación Clave:** Los modelos de **Machine Learning (Random Forest) superaron inicialmente a los modelos de Deep Learning**.
+    * **Limitación de Datos:** Este resultado se atribuyó principalmente al **reducido tamaño de las imágenes de entrada (16x16px)**, las cuales, a pesar del aumento de tamaño (resize), limitaron significativamente la capacidad de las CNN para capturar los patrones morfológicos y texturales complejos que son críticos en histopatología.
+
+- 🔗 **Proyecto:**  
+  [CapstoneProject](https://github.com/diego-esan/capstone-project.git)
+  
+  ![Captura del proyecto](https://github.com/diego-esan/capstone-project/blob/9bbb0c7e9ebad6dcc744dcf9aa0fd2ca64656377/INEN.jpg)
+
+
 ### 📌 **2. DOG RECOGNITION – COMPUTER VISION (Bombom & Pulpo)**
 
 - 🧾 **Descripción:**  
